@@ -1,0 +1,6 @@
+credit_impairment_loss
+net_exposure_hedging_benefits
+rd_expense
+stmnote_finexp
+fin_exp_int_inc
+is_calculation

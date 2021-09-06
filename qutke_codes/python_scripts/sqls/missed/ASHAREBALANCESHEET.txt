@@ -1,0 +1,16 @@
+fin_assets_cost_sharing
+fin_assets_fair_value
+contractual_assets
+contract_liabilities
+accounts_receivable_bill
+accounts_payable
+oth_rcv_tot
+stm_bs_tot
+const_in_prog_tot
+oth_payable_tot
+lt_payable_tot
+debt_investment
+other_debt_investment
+other_equity_investment
+other_illiquidfinancial_assets
+other_sustainable_bond

@@ -1,0 +1,4 @@
+open
+high
+low
+close
