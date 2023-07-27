@@ -4,7 +4,7 @@ import threading
 import time
 import requests
 import random
-url = 'https://fxmm-fof.nbcb.com.cn/api/funds/fghfghfhfhfhd'
+url = 
 def request_nbcb(url,thread_no):
     header = {
     'Host': 'fxmm-fof.nbcb.com.cn',
